@@ -1,4 +1,4 @@
-# Edge-Frfox
+# Custom Firefox Theme (Microsoft Edge feeling)
 A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
 
 <!-- Use <img> element to set a maximum width. -->
